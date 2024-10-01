@@ -10,4 +10,7 @@ public class GotoMainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
+    void jump() {
+        //DSGFSDGSDG    
+    }
 }
