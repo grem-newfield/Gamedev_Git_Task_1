@@ -146,5 +146,7 @@ public class CharacterControl : MonoBehaviour
 
 
     }
-
+    void PrintCharacterName() {
+            Debug.Log("Roni");
+    }
 }
